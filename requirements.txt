@@ -83,7 +83,6 @@ pyinstaller==5.3
 pyinstaller-hooks-contrib==2022.8
 Pympler==1.0.1
 PyMsgBox==1.0.9
-pywin32>=223
 pynput==1.7.6
 pyparsing==2.4.7
 pyperclip==1.8.2
